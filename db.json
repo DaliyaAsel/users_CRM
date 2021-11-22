@@ -61,6 +61,20 @@
       "age": 5,
       "gender": "male",
       "img":"https://cdn-icons-png.flaticon.com/512/763/763775.png"
+    },
+    {
+      "id": 10,
+      "name": "Bus",
+      "age": 3,
+      "gender": "gender neutral ",
+      "img": "https://cdn-icons.flaticon.com/png/512/3529/premium/3529398.png?token=exp=1637588371~hmac=c30bd2b9f3c7123c5d5679f28c7579a2"
+    },
+    {
+      "id": 11,
+      "name": "Leana",
+      "age": 2,
+      "gender": "female",
+      "img": "https://cdn-icons-png.flaticon.com/512/616/616412.png"
     }
   ]
 }

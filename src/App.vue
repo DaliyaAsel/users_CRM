@@ -44,7 +44,7 @@ export default {
 <style lang="scss">
 .navbar-link { //если у данного класса имеется класс router-link-exact-active , который проставляется самим Vue, то цвет ссылки будет синий
   &.router-link-exact-active {
-    color: rgb(91, 91, 243);
+    color: #1cd415;
   }
 }
 </style>

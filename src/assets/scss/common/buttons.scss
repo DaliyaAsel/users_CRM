@@ -32,4 +32,14 @@
     border: 1px solid #ffffff;
     background-color: #ffffff;
   }
+  &.btnSuccess{
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    background-color: $success-color;
+  }
+  &.btnPurple{
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    background-color: $purple-color;
+  }
 }
